@@ -1,2 +1,2 @@
 # Installations
-Installing applications
+Installing applications such as Jenkins, maven, java etc using scripts
