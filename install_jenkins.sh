@@ -2,7 +2,7 @@
 
 sudo apt update
 echo "To install java/jdk"
-sudo apt install openjdk-17-jdk
+sudo apt install openjdk-17-jdk -y
 sudo wget -O /usr/share/keyrings/jenkins-keyring.asc \
   https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key
 echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
